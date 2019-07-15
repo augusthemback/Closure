@@ -1,0 +1,7 @@
+F:\Misc\Projects\C#\Closure\bin\Debug\Closure.exe.config
+F:\Misc\Projects\C#\Closure\bin\Debug\Closure.exe
+F:\Misc\Projects\C#\Closure\bin\Debug\Closure.pdb
+F:\Misc\Projects\C#\Closure\obj\Debug\Closure.csprojAssemblyReference.cache
+F:\Misc\Projects\C#\Closure\obj\Debug\Closure.csproj.CoreCompileInputs.cache
+F:\Misc\Projects\C#\Closure\obj\Debug\Closure.exe
+F:\Misc\Projects\C#\Closure\obj\Debug\Closure.pdb
